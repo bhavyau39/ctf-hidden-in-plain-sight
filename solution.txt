@@ -1,0 +1,9 @@
+# Solution: Hidden in Plain Sight
+
+Tools used: `exiftool` or any metadata extractor.
+
+Steps:
+1. Run `exiftool hidden_in_plain_sight.png` or open the file in a metadata viewer.
+2. You’ll find the flag hidden in the metadata description tag.
+
+**Flag:** flag{hidden_in_image_metadata}
